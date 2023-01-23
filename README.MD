@@ -1,4 +1,4 @@
-Changes From Official Build:
-  Added Ghost Tapping
-  Added disfunctional miss counter
-  Used reanimated sprites
+Changes From Official Build:<br>
+  Added Ghost Tapping<br>
+  Added disfunctional miss counter<br>
+  Used reanimated sprites<br>
