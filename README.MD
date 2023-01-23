@@ -7,12 +7,12 @@ Changes From Official Build:<br>
 
 <!-- Tab content -->
 <div id="Gameplay" class="tabcontent">
-  <h3>London</h3>
+  <h3>Gameplay Changes</h3>
   <p>Added Ghost Tapping.<br>Added Disfunctional Miss Counter</p>
 </div>
 
 <div id="Visual" class="tabcontent">
-  <h3>Paris</h3>
+  <h3>Visual Changes</h3>
   <p>Used Reanimated Sprites.</p>
 </div>
 
